@@ -1,0 +1,3 @@
+%{
+  "mint": {:git, "https://github.com/ericmj/mint.git", "de44b480948580f2d5cddd7e4dfdddb5dd7299d1", [branch: "master"]},
+}
